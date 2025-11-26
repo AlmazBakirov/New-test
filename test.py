@@ -1,5 +1,5 @@
 import random
 def main():
-    print(random.randrange(5000))
+    print(random.randrange(300))
 if __name__ == '__main__':
     main()
